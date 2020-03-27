@@ -10,10 +10,18 @@ program.usage('<command>')
 
 program.command('init')
   .option('-f, --foo', 'enable some foo')
-  .description('Generate a new project')
+  .description('Generate a new react project')
   .alias('i')
   .action(() => {
     require(res('init'))
+  })
+
+program.command('new')
+  .option('-f, --foo', 'enable some foo')
+  .description('Generate a new react page')
+  .alias('n')
+  .action(() => {
+    require(res('newReactPage'))
   })
 
 program.parse(process.argv);
