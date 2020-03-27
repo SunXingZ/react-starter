@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "place": "SunXingZ/react-templates",
+    "branch": "#admin"
+  },
+  "native-bottom-tabs": {
+    "place": "SunXingZ/react-templates",
+    "branch": "#native-bottom-tabs"
+  },
+  "native-drawer": {
+    "place": "SunXingZ/react-templates",
+    "branch": "#native-drawer"
+  },
+  "webapp": {
+    "place": "SunXingZ/react-templates",
+    "branch": "#webapp"
+  }
+}
