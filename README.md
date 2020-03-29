@@ -3,40 +3,38 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/SunXingZ/react-starter/blob/master/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> a react project start kit
+> Set up a modern react app & react-native app by running one command
 
-### 🏠 [Homepage](https://github.com/SunXingZ/react-starter)
-
-## Install
+## 安装
 
 ```sh
 npm install -g react-starter
 ```
 
-## Usage
+## 用法
 
 ```sh
 react-cli init or rc init
 ```
 
-## Run tests
+## 测试
 
 ```sh
 yarn run test
 ```
 
-## Author
+## 作者
 
 👤 **sunxingzhe**
 
 * Github: [@SunXingZ](https://github.com/SunXingZ)
 
-## 🤝 Contributing
+## 🤝 贡献
 
-Contributions, issues and feature requests are welcome!
+欢迎提出建议和贡献代码！
 
 Feel free to check [issues page](https://github.com/SunXingZ/react-starter/issues). 
 
-## Show your support
+## 支持一下
 
-Give a ⭐️ if this project helped you!
+如果你觉得这个项目对你有帮助，记得点一下⭐️哦!
