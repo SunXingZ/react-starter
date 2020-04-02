@@ -3,6 +3,10 @@
     "place": "SunXingZ/react-templates",
     "branch": "#admin"
   },
+  "single-spa-admin": {
+    "place": "SunXingZ/react-templates",
+    "branch": "#single-spa-admin"
+  },
   "native-bottom-tabs": {
     "place": "SunXingZ/react-templates",
     "branch": "#native-bottom-tabs"
